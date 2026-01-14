@@ -160,6 +160,9 @@ Ecommerce-AI-Trend-Forecaster/
 | Normal Days | **1.0x** |
 
 ---
+## 📸 Screenshots 
+<img width="1407" height="825" alt="Screenshot 2026-01-13 033105" src="https://github.com/user-attachments/assets/63d9e3c7-fed6-43bd-a6f7-f275bfd0106a" />
+
 
 ### 👥 Customer Segmentation (K-Means)
 
@@ -173,6 +176,9 @@ Ecommerce-AI-Trend-Forecaster/
 > 📌 **Evaluation Metric**  
 > **Silhouette Score:** `0.62` — Indicates strong cluster separation
 
+
+## 📸 Screenshots 
+![Uploading Screenshot 2026-01-13 033301.png…]()
 
 
 ### 🔬 Technical Architecture
@@ -247,6 +253,7 @@ See the LICENSE file for details.
 💻 GitHub: adityakrbharti3029
 
 Email:adityakb2003@gmail.com 
+
 
 
 
