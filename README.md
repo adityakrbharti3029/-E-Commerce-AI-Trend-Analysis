@@ -8,9 +8,10 @@ A comprehensive AI-powered Command Center that combines **Rule-Based Logic** wit
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 📄 **Project Report:** [View Report](https://docs.google.com/document/d/1923DwSTheBD3uGSZpfZdKSl_F16m9k1yV1yf33khPug/edit?usp=sharing)
-📊 **Google Slides Presentation:**  
+📊 **Google Slides Presentation:**                                    
 👉 [View Slides](https://docs.google.com/presentation/d/1HJtrRGTyRASYpVp_DvY4Y8glzzWoZGVO/edit?usp=sharing)
 
+📊 **Live Dashboard:** [Launch App](https://5u7jwjutyvzzsc7pc4sbry.streamlit.app/)
 
 
 ---
@@ -178,7 +179,8 @@ Ecommerce-AI-Trend-Forecaster/
 
 
 ## 📸 Screenshots 
-![Uploading Screenshot 2026-01-13 033301.png…]()
+<img width="1366" height="825" alt="Screenshot 2026-01-13 033301" src="https://github.com/user-attachments/assets/65b2f2d1-7af7-4687-ba03-6c537352ce90" />
+
 
 
 ### 🔬 Technical Architecture
@@ -253,6 +255,7 @@ See the LICENSE file for details.
 💻 GitHub: adityakrbharti3029
 
 Email:adityakb2003@gmail.com 
+
 
 
 
